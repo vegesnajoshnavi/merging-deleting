@@ -1,5 +1,7 @@
 MERGING AND DELETING IN GIT BASH:
-here we first create two branches other trhan main and merge the components of them into main branch and finally deleting the branches using gitbash commands.
+
+
+here we first create two branches other than main and merge the components of them into main branch and finally deleting the branches using gitbash commands.
 
 
 ![Screenshot (1)](https://github.com/vegesnajoshnavi/merging-deleting/assets/127869260/64a8edca-97b0-415d-ba4e-6b5da53bbaad)
